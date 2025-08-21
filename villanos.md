@@ -1,3 +1,4 @@
 Thanos
 Joker
-lexluthor
+Lexluthor
+Terra
